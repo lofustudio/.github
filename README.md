@@ -1,2 +1,2 @@
 # .github
-We are Nord.
+We are Lofu.
