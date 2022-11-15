@@ -1,8 +1,8 @@
-![We are Nord Studio.](profile/images/banner.png)
+![Well this is awkward, the banner isn't loading...](images/banner.png)
 
-## Building the future. One project at a time.
-We make software, games, websites and everything in between.  
-Our projects are carefully crafted and tested to ensure that we provide the best service we can.  
-We build projects close to our hearts, and put everything we’ve got into them, so the final products we deliver speak for themselves.
+## Only up from here.
+Currently, we are just two idiots making software and having a laugh.  
+At Lofu we don't have a certain scope, we just make whatever we find cool!
 
-Find more at [nordstud.io](https://www.nordstud.io)
+
+Find more at [lofu.studio](https://lofu.studio)
