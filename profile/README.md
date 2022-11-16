@@ -1,4 +1,4 @@
-![Well this is awkward, the banner isn't loading...](images/banner.png)
+![Well this is awkward, the banner isn't loading...](profile/images/banner.png)
 
 ## Only up from here.
 Currently, we are just two idiots making software and having a laugh.  
